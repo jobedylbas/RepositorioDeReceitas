@@ -14,4 +14,4 @@ e [Markdown](https://daringfireball.net/projects/markdown/).
 
 ## Contribuindo
 
-Para saber como contribuir, dê uma olhada na documentação [CONTRIBUTING.md](https://github.com/jobedylbas/RepositorioDeReceitas/blob/main/CONTRIBUTING.md))
+Para saber como contribuir, dê uma olhada na documentação [CONTRIBUTING.md](https://github.com/jobedylbas/RepositorioDeReceitas/blob/main/CONTRIBUTING.md).
