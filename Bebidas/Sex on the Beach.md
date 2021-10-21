@@ -1,4 +1,4 @@
-# Caipirinha
+# Sex On The Beach
 
 ## Ingredientes
 
