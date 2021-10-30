@@ -23,4 +23,4 @@ Lave e descasque as cenouras. Descarte a ponta da rama, corte as cenouras em rod
 
 5. Com cuidado, transfira a massa para a fôrma e leve ao forno para assar por cerca de 45 minutos. Para saber se o bolo está pronto, espete um palito (ou algum talher) na massa: se sair limpo, pode tirar do forno; caso contrário, deixe por mais alguns minutos, até assar completamente. Deixe esfriar por 15 minutos caso queira adicionar uma cobertura.
 
-6. Aproveite e com bastante 🤠
+6. Aproveite e coma bastante 🤠
