@@ -28,3 +28,5 @@ Chef: Seu nome, link para redes sociais ou usuário # Opcional
 Edite o arquivo para que contenha sua receita e sinta-se livre para adicionar emojis.
 
 Quando seu arquivo estiver pronto, você poderá fazer o _commit_ das suas mudanças, após isso use o comando `git push` para mandar as alterações do seu repositório local para seu seu repositório do github e assim poderá solicitar um _pull request_ do seu repositório para este.
+
+Ao fazer o _pull request_ , por favor, preencha o template sugerido.
