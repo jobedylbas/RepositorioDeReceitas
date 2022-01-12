@@ -29,4 +29,4 @@ Edite o arquivo para que contenha sua receita e sinta-se livre para adicionar em
 
 Quando seu arquivo estiver pronto, você poderá fazer o _commit_ das suas mudanças, após isso use o comando `git push` para mandar as alterações do seu repositório local para seu seu repositório do github e assim poderá solicitar um _pull request_ do seu repositório para este.
 
-Ao fazer o _pull request_ , por favor, preencha o template sugerido.
+Ao fazer o _pull request_ , por favor, preencha o _template_ sugerido.
