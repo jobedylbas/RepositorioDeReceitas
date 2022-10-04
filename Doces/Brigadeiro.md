@@ -19,7 +19,6 @@
 
 4. Com as mãos untadas, enrole em bolinhas e passe-as no granulado. Sirva em forminhas de papel.
 
-
 ---
 
 Chef: [helloLari](https://github.com/helloLari) 👩🏻‍🍳

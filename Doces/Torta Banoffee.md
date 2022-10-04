@@ -14,7 +14,6 @@
 * meia colher (sopa) de Chocolate em Pó NESTLÉ® DOIS FRADES®
 
 
-
 ## Passo a Passo Massa
 
 1. Em um recipiente, coloque o Biscoito TOSTINES triturado com a manteiga derretida e o Leite NINHO. Misture até formar uma massa homogênea.
